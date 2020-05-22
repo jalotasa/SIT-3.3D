@@ -1,7 +1,4 @@
-/*
-Subscribing to Pats and Waves from Deakin Lab
-Written by: Sarah Ossedryver
-*/
+
 int green = D3;
 int red = D1;
 void eventPublished(const char *event, const char *data);
